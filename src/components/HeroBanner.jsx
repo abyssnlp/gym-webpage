@@ -45,12 +45,13 @@ const HeroBanner = () => {
         Explore Exercises
       </Button>
       <Typography
-        fontWeight={600}
-        fontSize="200px"
+        fontWeight={700}
+        mt="120px"
+        fontSize="250px"
         color="red"
         sx={{ opacity: 0.1, display: { lg: "block", xs: "none" } }}
       >
-        Exercise
+        Exercises
       </Typography>
       <img src={HeroBannerImage} alt="banner" className="hero-banner-img" />
     </Box>
