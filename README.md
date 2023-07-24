@@ -1,4 +1,4 @@
-# Gym Static Webpage
+# Gym Webpage
 
 Components used:
 
